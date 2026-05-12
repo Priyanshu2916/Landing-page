@@ -1,16 +1,21 @@
- SkillCraft - Responsive Landing Page
+# SkillCraft - Responsive Landing Page
 
-Maine ye project *SkillCraft Technology* ki internship ke task ke roop mein banaya hai.
+This project was developed as part of my Web Development internship task at **SkillCraft Technology**.
 
 ## Features
-- Fully Responsive Design
-- Modern UI/UX
-- Clean Code (HTML, CSS & JS)
+- **Fully Responsive Design:** Optimized for all screen sizes including desktops, tablets, and mobile devices.
+- **Modern UI/UX:** Clean and professional interface focused on user experience.
+- **Optimized Code:** Built using semantic HTML5, CSS3, and JavaScript for smooth performance.
 
 ## Live Demo
-Aap meri website yahan dekh sakte hain: 
-https://priyanshu2916.github.io/Landing-page/
+You can view the live project here: 
+[https://priyanshu2916.github.io/Landing-page/](https://priyanshu2916.github.io/Landing-page/)
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
 
 ## Author
-- Priyanshu Kumari
--
+- **Priyanshu Kumari**
+
